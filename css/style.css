@@ -1,0 +1,27 @@
+header{
+        height: 72px;
+        border: 1px dashed red;
+   
+
+      } 
+footer{
+        height: 508px;
+        border: 1px dashed blue;
+
+      }
+main{
+      height: 4370.6px;
+      border: 1px dashed black;
+    
+    }    
+.a_tbdr{
+        border: 1px dashed gray;
+
+       }
+      
+      @media (min-width: 1400px){
+            .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+            max-width: 997px;
+        }  
+      }
+     
