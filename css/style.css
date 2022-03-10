@@ -1,5 +1,5 @@
 header{
-        height: 72px;
+        height: 160px;
         border: 1px dashed red;
    
 
@@ -21,7 +21,6 @@ main{
       
       @media (min-width: 1400px){
             .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-            max-width: 997px;
+            max-width: 1025px;
         }  
       }
-     
